@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.logstash.filters.parser.JodaParserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-01-16T09:46:06" hostname="Burkays-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="onePattern" classname="org.logstash.filters.parser.JodaParserTest" time="0.001"/>
+  <testcase name="emptyShouldFail" classname="org.logstash.filters.parser.JodaParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

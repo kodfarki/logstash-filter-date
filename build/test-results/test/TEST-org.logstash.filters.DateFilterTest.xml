@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.logstash.filters.DateFilterTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-01-16T09:46:05" hostname="Burkays-MacBook-Pro.local" time="0.823">
+  <properties/>
+  <testcase name="testUnixMillisLong" classname="org.logstash.filters.DateFilterTest" time="0.798"/>
+  <testcase name="testIsoStrings" classname="org.logstash.filters.DateFilterTest" time="0.019"/>
+  <testcase name="testTai64Strings" classname="org.logstash.filters.DateFilterTest" time="0.002"/>
+  <testcase name="testUnixLongs" classname="org.logstash.filters.DateFilterTest" time="0.001"/>
+  <testcase name="testUnixDouble" classname="org.logstash.filters.DateFilterTest" time="0.0"/>
+  <testcase name="testUnixInts" classname="org.logstash.filters.DateFilterTest" time="0.001"/>
+  <testcase name="testUnixStrings" classname="org.logstash.filters.DateFilterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ERROR StatusLogger No log4j2 configuration file found. Using default configuration: logging only errors to the console.
+]]></system-err>
+</testsuite>
